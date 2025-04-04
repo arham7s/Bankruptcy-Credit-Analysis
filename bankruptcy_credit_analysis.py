@@ -37,8 +37,6 @@ sys.path.append(r"/content/bankruptcy_helper.py")  # Add folder to Python path
 
 # %aimport bankruptcy_helper
 
-helper = bankruptcy_helper.Helper()
-
 """# ***Get the data***
 The first step in our Recipe is Get the Data.
 
