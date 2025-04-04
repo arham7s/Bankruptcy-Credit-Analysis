@@ -29,12 +29,6 @@ sys.path.append(r"/content/bankruptcy_helper.py")  # Add folder to Python path
 
 """# ***Helper API***"""
 
-# Commented out IPython magic to ensure Python compatibility.
-## Load the bankruptcy_helper module
-
-
-InteractiveShell.ast_node_interactivity = "all"
-
 # Reload all modules imported with %aimport
 # %load_ext autoreload
 # %autoreload 1
