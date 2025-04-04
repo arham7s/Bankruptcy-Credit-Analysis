@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-"""Bankruptcy-Credit-Analysis.ipynb
 # bankruptcy_streamlit_app.py
 
 import streamlit as st
