@@ -34,7 +34,7 @@ sys.path.append(r"/content/bankruptcy_helper.py")  # Add folder to Python path
 # %autoreload 1
 
 # Import bankruptcy_helper module
-import bankruptcy_helper
+
 # %aimport bankruptcy_helper
 
 helper = bankruptcy_helper.Helper()
