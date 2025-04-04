@@ -977,7 +977,6 @@ rating_model, _, _ = train_credit_rating_model(X, df['Altman_Rating'])
 rating_df = predict_credit_rating(rating_model, X, firm_names)
 display(rating_df.head(10))
 
-!pip install streamlit
 
 import streamlit as st
 import pandas as pd
