@@ -22,7 +22,6 @@ import os
 import math
 
 # %matplotlib inline
-!pip install imbalanced-learn
 
 import sys
 sys.path.append(r"/content/bankruptcy_helper.py")  # Add folder to Python path
